@@ -1,0 +1,20 @@
+TOKENS = {
+    "END": 0x80,
+    "FOR": 0x81,
+    "NEXT": 0x82,
+    "DATA": 0x83,
+    "INPUT#": 0x84,
+    "INPUT": 0x85,
+    "DIM": 0x86,
+    "READ": 0x87,
+    "LET": 0x88,
+    "GOTO": 0x89,
+    "RUN": 0x8A,
+    "IF": 0x8B,
+    "RESTORE": 0x8C,
+    "GOSUB": 0x8D,
+    "RETURN": 0x8E,
+    "REM": 0x8F,
+    "STOP": 0x90,
+    "PRINT": 0x99
+}
